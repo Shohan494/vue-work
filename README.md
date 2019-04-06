@@ -21,3 +21,7 @@ command:
 ```
 app4.todos.push({ text: 'New item' })
 ```
+- for the next grocery list:
+```
+app7.groceryList.push({ id: 4, text: 'Whatever' })
+```
